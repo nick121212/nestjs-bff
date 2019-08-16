@@ -9,13 +9,14 @@
     "pkg-bff/*"
   ],
   "useWorkspaces": false,
-  "npmClient": "yarn",
+  "npmClient": "npm",
   "command": {
     "publish": {
       "ignoreChanges": [
         "*.md"
-      ]
+      ],
+      "registry": "http://172.21.247.133:8081"
     }
   },
-  "version": "1.1.9"
+  "version": "1.1.6"
 }
