@@ -6,7 +6,7 @@
     ]
   },
   "name": "@yourapp/frontend",
-  "version": "1.0.0",
+  "version": "1.1.5",
   "description": "A working example of a Nestjs-BFF angular web-app frontend",
   "author": "ahrnee",
   "license": "MIT",
